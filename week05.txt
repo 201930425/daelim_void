@@ -1,4 +1,4 @@
 1교시
-complit 리뷰
+conflict 리뷰
 fork
 clone과 pull의 차이
